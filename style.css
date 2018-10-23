@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+  	background-color: #AFF8EF;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+}
+
+#main {
+    margin: 0 auto;
+    background-color: #37595A;
+    border-radius: 10px;
+    height: 200px;
+    width: 600px;
+}
+
+#inputbox {
+    width: 100%;
+    padding: 15px;
+}
